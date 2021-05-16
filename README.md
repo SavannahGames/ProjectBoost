@@ -8,8 +8,8 @@ W = UP\
 A = LEFT\
 D = RIGHT\
 L = Load next level immediately(use only if stuck)\
-Hold C = Disable collision (turns back on when you release key)\
+Hold C = Disable collision (turns back on when you release key)
 
 
 // Copyright: AERØHEAD#9836 \
-// For any kinds of issues, contact me through discord, or open an issue.\
+// For any kinds of issues, contact me through discord, or open an issue.
