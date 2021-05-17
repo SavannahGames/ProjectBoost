@@ -8,7 +8,7 @@ W = UP\
 A = LEFT\
 D = RIGHT\
 L = Load next level immediately(use only if stuck)\
-Z = Trigger slowmo or turn it off\
+Hold Tab = Trigger slowmo 
 Hold C = Disable collision (turns back on when you release key)
 
 
