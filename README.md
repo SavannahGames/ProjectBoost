@@ -12,5 +12,5 @@ Hold Tab = Trigger slowmo
 Hold C = Disable collision (turns back on when you release key)
 
 
-// Copyright: AERØHEAD#9836 \
+// Copyright: snstorm#9836 \
 // For any kinds of issues, contact me through discord, or open an issue.
